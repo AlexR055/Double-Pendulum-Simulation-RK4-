@@ -7,7 +7,7 @@ matplotlib.use('TkAgg')
 
 print("Welcome to the double pendulum simulation.")
 sleep(2)
-print("This simulation uses the Runge-Kutta 4th order method for numerical integration of the equations of motion.")
+print("This simulation uses the Runge-Kutta 4th order method for numerical calculation of the equations of motion.")
 sleep(2)
 print("Be cautious about putting extremely unbalanced masses on the bobs, as this can overload the sim.")
 sleep(2)
